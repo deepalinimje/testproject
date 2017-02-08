@@ -10,8 +10,13 @@
 	<name>NumberGenerator</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
-		
-	</dependencies>
+<dependency>	
+	<groupID>junit</groupID>
+	<artifactID> junit</artifactID>
+	<version>4.11</version>
+	<scope>test</scope>
+		</dependency>
+</dependencies>
 
 	<build>
 	  <plugins>
