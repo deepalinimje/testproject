@@ -12,7 +12,7 @@
 	<dependencies>
 		<dependency>   
 			<groupID>junit</groupID>  
-			<artifactID>junit-dep</artifactID>  
+			<artifactID>junit</artifactID>  
 			<version>4.8.2</version>  
 			<scope>test</scope> 
 		</dependency>
